@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListasDesplegables</string>
+    <string name="cancionesProhibidas">Canciones Prohibidas</string>
+    <string name="deltoya">Deltoya</string>
+    <string name="materialDefectuoso">Material Defectuoso</string>
+    <string name="rockTrangresivo">Rock Transgresivo</string>
+    <string name="yoMinoriaAbsoluta">Yo Minoria Absoluta</string>
+</resources>
